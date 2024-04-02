@@ -1,0 +1,31 @@
+{
+  "name": "namaste",
+  "version": "1.0.0",
+  "description": "This is namaste React by VARSHA KUSHWHA",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VARSHA-KUSHWAHA/namaste-react1.git"
+  },
+  "keywords": [
+    "React",
+    "namaste",
+    "react",
+    "varsha"
+  ],
+  "author": "VARSHA KUSHWAHA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VARSHA-KUSHWAHA/namaste-react1/issues"
+  },
+  "homepage": "https://github.com/VARSHA-KUSHWAHA/namaste-react1#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  },
+  "dependencies": {
+    "react-dom": "^18.2.0"
+  }
+}
